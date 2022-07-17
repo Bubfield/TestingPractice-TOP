@@ -1,0 +1,22 @@
+{
+  "name": "testingpractice-top",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testingpractice.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bubfield/TestingPractice-TOP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bubfield/TestingPractice-TOP/issues"
+  },
+  "homepage": "https://github.com/Bubfield/TestingPractice-TOP#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
